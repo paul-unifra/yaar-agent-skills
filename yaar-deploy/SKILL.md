@@ -75,7 +75,7 @@ yaar --help
 
    ```bash
    YAAR_API_URL=https://yaar-testnet.unifra.io/ \
-   npx @paul-unifra/yaar-cli@latest deploy --resume <id> --ows-wallet yaar-deployer
+   npx @paul-unifra/yaar-cli@latest deploy --resume STATE_ID --ows-wallet yaar-deployer
    ```
 
 ## Private Key Mode
