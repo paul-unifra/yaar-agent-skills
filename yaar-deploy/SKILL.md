@@ -1,3 +1,8 @@
+---
+name: yaar-deploy
+description: Use when deploying a YAAR agent on 0G testnet with the YAAR CLI, including config creation, wallet setup, dry-run validation, deployment, and resume after interruption.
+---
+
 # YAAR Deploy
 
 Use this skill when a user asks an agent to deploy a YAAR agent from a terminal.
