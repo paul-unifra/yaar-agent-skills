@@ -5,13 +5,13 @@ Agent skills for deploying YAAR agents on 0G.
 ## Install
 
 ```bash
-npx skills add paul-unifra/yaar-agent-skills --skill yaar-deploy --agent codex -y
+npx skills add paul-unifra/yaar-agent-skills
 ```
 
 ## Use Without Installing
 
 ```bash
-npx skills use paul-unifra/yaar-agent-skills@yaar-deploy --agent codex
+npx skills use paul-unifra/yaar-agent-skills@yaar-deploy
 ```
 
 ## Available Skills
